@@ -28,7 +28,7 @@ export const PostCard = ({ post }) => {
             className="rounded-full align-middle"
             src={post.author.photo.url}
           />
-          <p className="ml-2 inline align-middle text-lg text-gray-700">
+          <p className="ml-2 inline align-middle text-lg text-gray-700">e
             {post.author.name}
           </p>
         </div>
