@@ -1,12 +1,12 @@
 import React, { Children } from 'react'
 import Header from './Header'
 
-type BoxProps = {
-  children: React.ReactChild;
-};
+// type BoxProps = {
+//   children: React.ReactChild;
+// };
 
 
-const Layout = (props:BoxProps) => {
+const Layout = (props) => {
   return (
     <div>
       <Header />
