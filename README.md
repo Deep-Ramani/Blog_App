@@ -1,4 +1,6 @@
+# Blog App
 # Next.js + Tailwind CSS Example
+
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
@@ -21,3 +23,5 @@ pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+![Screenshot from 2022-11-14 12-37-40](https://user-images.githubusercontent.com/41836849/201596981-9ddef61a-4c12-4d5e-b738-affe28714305.png)
