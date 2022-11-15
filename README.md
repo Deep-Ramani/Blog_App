@@ -1,4 +1,4 @@
-# Blog App
+# Blog App 
 # Next.js + Tailwind CSS Example
 
 
